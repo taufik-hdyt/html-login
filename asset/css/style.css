@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap');
+
+
+
+html body * {
+  margin: 0;
+  padding: 0;
+  font-family: 'swap' , sans-serif;
+  box-sizing: border-box;
+  background-color: aqua;
+
+body {
+  position: relative;
+  padding :100px 120px
+}
